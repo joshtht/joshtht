@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning yaml
 - 💞️ I’m looking to collaborate on great stuff
-- 📫 How to reach me office 1.54 at The Hague Tech
+- 📫 How to reach me: office 1.54 at The Hague Tech
 - ⚡ Fun fact: this is the first readme I made
 
 <!---
